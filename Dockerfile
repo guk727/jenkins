@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:14.04
 MAINTAINER gk727@hotmail.com
 ENV REFRESHED_AT 2016-05-23
 
